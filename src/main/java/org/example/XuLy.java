@@ -112,6 +112,9 @@ public class XuLy {
             System.out.println("Ma hoc vien khong ton tai!");
         }
     }
+    public void Something(){
+
+    }
 }
 //public void edit(int id) {
 //        boolean isExisted = false;
